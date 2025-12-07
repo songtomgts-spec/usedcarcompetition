@@ -1,5 +1,8 @@
 # Used Car Price Prediction - Enhanced CatBoost Model
 
+The original compeition site https://tianchi.aliyun.com/competition/entrance/231784
+
+
 A machine learning project for predicting used car prices using CatBoost with advanced feature engineering. This project implements a GPU-accelerated CatBoost model with comprehensive feature engineering techniques to achieve competitive prediction accuracy.
 
 ## 📊 Project Overview
