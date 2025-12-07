@@ -12,6 +12,12 @@ This project predicts used car prices based on various vehicle characteristics i
 ### Performance Metrics
 
 - **Current OOF MAE**: ~484.6 (5-fold cross-validation)
+
+- Acutal Competition Score is
+
+Date:2025-12-08 01:28:54
+score:472.4529
+
 - **Training Time**: ~5-10 minutes (GPU) / ~15-30 minutes (CPU)
 
 ## ✨ Key Features
